@@ -17,3 +17,6 @@ function bbc-test-content
 }
 
 echo BBC-api is now enabled
+
+
+# see https://bitbucket.org/jaysee00/confluence-rest-api-example/src/master/src/main/java/com/atlassian/api/examples/Main.java?fileviewer=file-view-default and https://answers.atlassian.com/questions/312039/how-to-update-a-page-in-confluence-5.5.3-via-rest-call
