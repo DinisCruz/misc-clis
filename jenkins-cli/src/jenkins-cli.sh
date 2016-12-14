@@ -2,7 +2,7 @@
 
 function jenkins-cli-about {
     echo
-    echo "Created by Dinis Cruz, source code hosted at https://github.com/DinisCruz/kubernetes-cli"
+    echo "Created by Dinis Cruz, source code hosted at https://github.com/DinisCruz/misc-clis"
     echo
 }
 
