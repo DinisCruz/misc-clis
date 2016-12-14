@@ -3,7 +3,7 @@
 # this are the main APIs
 
 function dk-about {
-    echo "Created by Dinis Cruz, source code hosted at https://github.com/DinisCruz/kubernetes-cli"
+    echo "Created by Dinis Cruz, source code hosted at https://github.com/DinisCruz/misc-clis"
 }
 
 
